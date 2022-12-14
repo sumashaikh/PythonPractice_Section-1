@@ -1,0 +1,5 @@
+print("USA")
+print("Canada")
+print("Germany")
+print("France")
+print("Japan")
